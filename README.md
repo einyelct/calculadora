@@ -1,24 +1,19 @@
-# calculadora-pro
+# Calculadora
 
-## Project setup
-```
-npm install
-```
+Aplicacion de Calculadora
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# Funcionamiento
+**Ejecuciones previas.**
+>Ejecutar el siguiente comando
 
-### Compiles and minifies for production
-```
-npm run build
-```
+	 npm install
 
-### Run your unit tests
-```
-npm run test:unit
-```
+>Arrancar la App
+	
+	>npm run server
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Operaciones
+
+En la calculadora se puede hacer las operaciones que se muestra en la tabla, mostrando el historial de la operacion y el resultado de las operaciones que se ejecutan
